@@ -1,0 +1,19 @@
+[ {
+  "module" : 16,
+  "taps" : [ {
+    "state" : 0,
+    "tap" : 1
+  }, {
+    "state" : 0,
+    "tap" : 3
+  } ]
+}, {
+  "module" : 17,
+  "taps" : [ {
+    "state" : 1,
+    "tap" : 1
+  }, {
+    "state" : 1,
+    "tap" : 2
+  } ]
+} ]
